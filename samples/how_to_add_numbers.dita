@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_numbers">
+    <title>How to add numbers</title>
+    <shortdesc>Here you will find instructions about using the addition feature of the
+        Calculator app.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>To succesfully add numbers, you must know what is addition.</p>
+        </prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the plus (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>The result from the substraction is displayed.</p>
+        </result>
+        <example>
+            <p>You want to add 2 to 3. The equation will look like: 3+2=5. You enter 3. 
+                Press plus. Enter 2. Press equals.</p>
+            <p>The result 5 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task>
